@@ -1,0 +1,13 @@
+mermaid
+sequenceDiagram
+participant User
+participant API
+participant BusinessLogic
+participant Database
+
+User->>API: Request Place List
+API->>BusinessLogic: Process Request
+BusinessLogic->>Database: Retrieve Places
+Database-->>BusinessLogic: Return Place Data
+BusinessLogic-->>API: Return Data
+API-->>User: List of Places
