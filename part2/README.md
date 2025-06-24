@@ -78,7 +78,7 @@ source venv/bin/activate
 
 2. Ejecuta el servidor:
 ```bash
-python3 -m app.py
+python3 -m api.app
 ```
 
 3. Usa herramientas como curl para consumir la API:
