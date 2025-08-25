@@ -380,7 +380,7 @@ python run.py --debug
 
 Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE.md](LICENSE.md) para detalles.
 
-## 👥 Autores
+## 👤 Autor
 
 - **Emanuel Rosa Alamo** - *Desarrollador Principal* - [@Ejrosa9028](https://github.com/Ejrosa9028)
 
@@ -394,4 +394,4 @@ Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE.md](LICENSE.md) 
 
 ⭐ **¿Te gusta el proyecto? ¡Dale una estrella!**
 
-📧 **Contacto**: tu_email@example.com
+📧 **Contacto**: ejrosa9028@gmail.com
